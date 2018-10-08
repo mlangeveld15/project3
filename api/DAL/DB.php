@@ -12,7 +12,7 @@ namespace DAL;
 class DB
 {
     // Local setup
-    private static $dbHost = 'https://php.bit1ims.club';
+    private static $dbHost = 'https://127.0.0.1:3000';
     private static $dbUser = 'BIT1';
     private static $dbPass = '!@Password1';
     private static $dbName = 'ims_schema';
