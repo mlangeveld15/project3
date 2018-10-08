@@ -12,9 +12,9 @@ namespace DAL;
 class DB
 {
     // Local setup
-    private static $dbHost = 'https://127.0.0.1:3000';
+    private static $dbHost = '127.0.0.1';
     private static $dbUser = 'BIT1';
-    private static $dbPass = '!@Password1';
+    private static $dbPass = '!@Password101';
     private static $dbName = 'ims_schema';
 
     // Nmu setup
